@@ -1,0 +1,1 @@
+webpack angular 4 template
